@@ -15,7 +15,7 @@ Enjoy lil niggas, don’t complain, and join the fucking Discord. 😂
 **Copy & paste:**
 
 ```lua
-loadstring(game:HttpGet("[https://raw.githubusercontent.com/Debo-Hub/DEBO-HUB/refs/heads/main/Vice%20City%202](https://raw.githubusercontent.com/Debo-Hub/DEBO-HUB-Scripts/refs/heads/main/Vice%20City%202)"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Debo-Hub/DEBO-HUB/refs/heads/main/Vice%20City%202](https://raw.githubusercontent.com/Debo-Hub/DEBO-HUB-Scripts/refs/heads/main/Vice%20City%202)"))()
 ```
 
 ---
